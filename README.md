@@ -30,7 +30,7 @@ Users should be able to:
 ### What I learned
 I learned fetching data from an api using useEffect hook
 
-![useEffect hook and a function that gets called when onbutton click and onpage load](./fetch data function.png)
+![useEffect hook and a function that gets called when onbutton click and onpage load](public/fetch-data-function.png)
 
 ## Author
 
