@@ -34,7 +34,7 @@ I learned fetching data from an api using useEffect hook
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/JRobera)
+- Frontend Mentor - [@JRobera](https://www.frontendmentor.io/profile/JRobera)
 
 ## Setup
 
